@@ -1,6 +1,6 @@
 UniWriter ist ein bildbasierter Text- und Zeichen-Editor für Android, mit dem sich eigene Schriftsysteme, Symbole oder Grafiken (PNG) flexibel kombinieren, ausrichten und verlustfrei als PNG-Grafik oder HTML-Dokument exportieren lassen.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00FF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khz66)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-DFFF00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/khz66)
            
 ​UniWriter verwandelt Tastatureingaben direkt in frei skalierbare Zeichengrafiken. Statt klassischer Schriftarten nutzt die App eigene PNG-Bilder für Buchstaben, Ziffern, Sonderzeichen sowie alternative Zeichenvarianten.
   
