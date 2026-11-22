@@ -5,7 +5,7 @@ UniWriter ist ein bildbasierter Text- und Zeichen-Editor für Android, mit dem s
 ​UniWriter verwandelt Tastatureingaben direkt in frei skalierbare Zeichengrafiken. Statt klassischer Schriftarten nutzt die App eigene PNG-Bilder für Buchstaben, Ziffern, Sonderzeichen sowie alternative Zeichenvarianten. 
   
 # ​Funktionen im Überblick
-**​Individuelle Zeichensets:** Eigene PNG-Grafiken werden verzerrungsfrei dargestellt und können jederzeit ausgetauscht werden.
+**​Individuelle Zeichensets:** Eigene PNG-Grafiken werden verzerrungsfrei dargestellt und können jederzeit ausgetauscht werden. <mark>Das Winker- und das Flaggenalphabet sind standardmäßig enthalten.</mark>
 
 **​Flexible Schreibrichtung & Varianten:** Unterstützung für zwei Zeichensätze (a bis z), Ziffern sowie Rechts-nach-Links-Eingabe (Unterstrich-Modus) mit eigenem Zeichensatz.
 
